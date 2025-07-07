@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Test Page</title>
+</head>
+<body>
+  <p>This is my test source page. Here’s the link to the target:</p>
+  <a href="https://sample.com/">Visit Sample.com</a>
+</body>
+</html>
